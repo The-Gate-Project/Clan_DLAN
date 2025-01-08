@@ -5,7 +5,7 @@
 
 - [Haiass el Lobo](https://github.com/Backup-Gate/Clan_DLAN/raw/main/Clan_DLAN/Haiass-el-Lobo/haiass_v2_4.zip)
 
-- [Huple NPC](https://github.com/Backup-Gate/Clan_DLAN/tree/main/Clan_DLAN/Huple/Huple_NPC_v1.2.rar)
+- [Huple NPC](https://github.com/Backup-Gate/Clan_DLAN/raw/main/Clan_DLAN/Huple/Huple_NPC_v1.2.rar)
 
 - [Mawgul NPC](https://github.com/Backup-Gate/Clan_DLAN/raw/main/Clan_DLAN/Mawgul/MawgulNPC_v2.2.rar)
 
