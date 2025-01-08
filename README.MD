@@ -9,7 +9,7 @@
 
 - [Mawgul NPC](https://github.com/Backup-Gate/Clan_DLAN/raw/main/Clan_DLAN/Mawgul/MawgulNPC_v2.2.rar)
 
-- [Mhoram NPC](https://github.com/Backup-Gate/Clan_DLAN/raw/main/Clan_DLAN/Mhoram/Mhoram v2.3.7z)
+- [Mhoram NPC](https://github.com/Backup-Gate/Clan_DLAN/raw/main/Clan_DLAN/Mhoram/Mhoram.v2.3.7z)
 
 - [Thael NPC](https://github.com/Backup-Gate/Clan_DLAN/raw/main/Clan_DLAN/Thael/ThaelNPCv2.32.zip)
 
