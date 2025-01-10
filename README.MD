@@ -11,6 +11,8 @@
 
 - [Mhoram NPC](https://github.com/Backup-Gate/Clan_DLAN/raw/main/Clan_DLAN/Mhoram/Mhoram.v2.3.7z)
 
+- [Taim NPC](https://github.com/Backup-Gate/Clan_DLAN/raw/main/Clan_DLAN/Taim/MTSTaim_1.2.rar)
+
 - [Thael NPC](https://github.com/Backup-Gate/Clan_DLAN/raw/main/Clan_DLAN/Thael/ThaelNPCv2.32.zip)
 
 - [Uldar NPC](https://github.com/Backup-Gate/Clan_DLAN/raw/main/Clan_DLAN/Uldar/UldarNPC_v0.77.zip)
